@@ -1,4 +1,4 @@
-update=viernes, 16 '16e' septiembre '16e' 2016, 17:57:30
+update=20/09/2016 08:16:30 p.m.
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/Users/sabas/Documents/Kicad Librerias/teensy
+LibName31=D:/kicad/AT90USB1286-AU/AT90USB1286-AU
